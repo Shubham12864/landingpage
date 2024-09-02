@@ -1,0 +1,147 @@
+.landing-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: linear-gradient(to bottom right, #007BFF, #00C6FF); /* Blue gradient background */
+    padding: 2rem;
+  }
+  
+  .landing-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;.custom-button:hover {
+    background-color: #e0e0e0;
+  }
+  
+  .custom-button {
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 9999px;
+    padding: 1rem; /* Adjusted padding for buttons */
+    font-size: 1rem; /* Adjusted font size for buttons */
+    font-weight: bold;
+    transition: background-color 0.3s;
+    width: 100%;
+    max-width: 400px; /* Moved max-width inside the .custom-button class */
+  }
+  
+  .input-field {
+    padding: 1rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+  }
+    background: linear-gradient(to bottom right, #007BFF, #00C6FF); /* Blue gradient background */
+    padding: 2rem;
+  }
+  
+  .login-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem; /* Space between form elements */
+    width: 100%;
+    max-width: 400px; /* Maximum width for the form */
+  }
+  
+  .input-field {
+    padding: 1rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px; /* Rounded corners for input fields */
+    width: 100%; /* Full width for input fields */
+  }
+  
+  .custom-button {
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 5px; /* Rounded corners to match input fields */
+    padding: 1rem; /* Padding for buttons */
+    font-size: 1rem; /* Font size for buttons */
+    font-weight: bold;
+    transition: background-color 0.3s; /* Smooth transition for hover effect */
+    width: 100%; /* Full width for buttons */
+    cursor: pointer; /* Pointer cursor on hover */
+  }
+  
+  .custom-button:hover {
+    background-color: #e0e0e0; /* Light grey background on hover */
+  }
+  
+  .input-field {
+    padding: 1rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .custom-button {
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 9999px;
+    padding: 1rem; /* Adjusted padding for buttons */
+    font-size: 1rem; /* Adjusted font size for buttons */
+    font-weight: bold;
+    transition: background-color 0.3s;
+    width: 100%;
+    cursor: pointer;
+  }
+  
+  .custom-button:hover {
+    background-color: #e0e0e0;
+  
+    max-width: 400px;
+  }
+  
+  .input-field {
+    padding: 1rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+  }
+  
+  .custom-button {
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 9999px;
+    padding: 1rem; /* Adjusted padding for buttons */
+    font-size: 1rem; /* Adjusted font size for buttons */
+    font-weight: bold;
+    transition: background-color 0.3s;
+    width: 100%;
+    cursor: pointer;
+  }
+  
+  .custom-button:hover {
+    background-color: #e0e0e0;
+  }
+  
+  .input-field {
+    padding: 1rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .custom-button {
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 9999px;
+    padding: 1.5rem 3rem; /* Adjusted padding for larger buttons */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem; /* Adjusted font size for larger text */
+    font-weight: bold;
+    transition: background-color 0.3s;
+    width: 100%;
+  }
+  
+  .custom-button:hover {
+    background-color: #e0e0e0;
+  }
